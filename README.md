@@ -38,17 +38,4 @@ Using the Plugin:
 
 With "Mass Resizer," you can efficiently manage images on your site, speeding up loading times and enhancing user experience. 
 
-Support the Plugin  
-If you enjoy using this plugin and would like to support its continued development, consider making a donation. You can contribute in cryptocurrency or transfer funds to my bank account in the EU. Please mention "donate" in the transfer description.  
-Cryptocurrency donations:  
-- Bitcoin: 1wEPRrCsA7fUza8SjmaeAztgzrwN5Yunu  
-- USDT(TRC20): TR5LTYdgNoPBwn38ECFNt5aUZWffvm1oh6  
-- USDT(ERC20): 0xc44ee3d0e680eb582b044219f82031b00f3ffed5  
-EU Bank Account Transfer:  
-- Name: Stanislav Furtovskiy  
-- Account Number: LT843500010016679999  
-- SWIFT/BIC: EVIULT2VXXX  
-- Bank: Paysera LT, UAB  
-- Telegram: @stanfmusic  
-- E-mail: furtovsky@gmail.com  
-Thank you for your support!
+
